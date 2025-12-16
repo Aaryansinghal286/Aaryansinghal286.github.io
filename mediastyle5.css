@@ -101,7 +101,7 @@ div ul{
         width: 2rem;
     }
 } */ 
- @media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .body{
         margin: 0;
         padding: 0;
@@ -138,9 +138,9 @@ div ul{
         color: white;
         cursor: pointer;
     }
-}
+} */
 /* tablet and desktop */
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .menu{
         display: flex;
         flex-direction: row;
@@ -152,4 +152,19 @@ div ul{
     .hamburger{
         display: none;
     }
-}
+} */
+/* div{
+    width: 100px;
+    height: 50px;
+    border: 15px solid green;
+    padding: 10px;
+    margin: 20px;
+} */
+/* property:box-sizing: border-box; */
+
+
+
+
+
+
+
